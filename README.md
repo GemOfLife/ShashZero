@@ -17,4 +17,6 @@ https://github.com/glinscott/nnue-pytorch - Maybe used later to train NNUE netwo
 I will be providing the trained networks of test runs and other networks. As well as tests of their strengh will be given 
 Training data won't be provided unless anybody is giving me a good reason to provide it.
 
+In order to play, the network is running on an older Stockfish version.
+
 Thanks for reading
